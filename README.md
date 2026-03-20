@@ -6,7 +6,7 @@
 
 ## 🎬 Demonstração
 
-<img src="./assets/demo.gif" width="500px">
+<img src="./demo.gif" width="700px">
 
 ## 🚀 Sobre o projeto
 
